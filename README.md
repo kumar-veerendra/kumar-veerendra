@@ -1,12 +1,13 @@
 # Hi, I'm Veerendra Kumar 👋  
 
-🎓 B.Tech CSE (Cyber Security)  
-💻 Backend-focused Web Developer (MERN)  
-🌱 Aspiring Google Summer of Code (GSoC) 2026 Contributor  
+🎓 **B.Tech CSE (Cyber Security)**  
+💻 **Backend-focused Full-Stack Developer (MERN)**  
+🌱 **Aspiring Google Summer of Code (GSoC) 2026 Contributor**
 
-I am a Computer Science student with experience in building **real-world web applications** and a growing interest in **backend systems, open-source development, and security-aware software design**.
+I am a Computer Science student with hands-on experience in building **real-world, full-stack web applications**.  
+My interests lie in **backend systems, open-source development, data-driven dashboards, and security-aware software design**.
 
-Currently, I am actively improving my backend skills and preparing for **open-source contributions and GSoC 2026**.
+Currently, I am actively preparing for **open-source contributions and GSoC 2026**.
 
 ---
 
@@ -31,6 +32,11 @@ Currently, I am actively improving my backend skills and preparing for **open-so
 - Tailwind CSS
 - Bootstrap
 
+**Data & Visualization**
+- Chart.js
+- Dynamic dashboards
+- Data fetching & representation
+
 **Cyber Security Basics**
 - Linux fundamentals
 - Networking concepts
@@ -48,44 +54,51 @@ Currently, I am actively improving my backend skills and preparing for **open-so
 ## 🚀 Featured Projects
 
 ### 🔹 Shiksha Setu (Education Platform)
-- Web-based platform aimed at improving communication and accessibility in the education system  
-- Designed with scalability and real-world use in mind  
-- Focused on usability, data flow, and platform structure  
+- A web-based education platform aimed at improving communication between students, teachers, and institutions  
+- Developed as part of **Smart India Hackathon (SIH) 2025**  
+- Qualified at the **college level**, ranking among the **top 50 teams out of 275+ teams**  
+- Designed as a scalable, real-world system with practical use cases  
+- Focused on clean architecture, modular design, and maintainability  
+- Planned features include **role-based access, secure APIs, and structured data management**
 
-*(This is my primary long-term project)*
-
----
-
-### 🔹 Zerodha Clone
-- Frontend clone of the Zerodha trading platform  
-- Implemented dashboard-style UI and component-based architecture  
-- Practiced responsive layouts and state handling  
+> This project reflects my interest in building **impact-driven, community-oriented platforms**, similar to open-source software.
 
 ---
 
-### 🔹 Airbnb Clone
-- UI clone of Airbnb with modern React practices  
-- Implemented listings, layouts, and navigation  
-- Improved understanding of real-world product interfaces  
+### 🔹 Airbnb Clone (Full-Stack MERN)
+- Full-stack Airbnb-like application built using the MERN stack  
+- Implemented **user authentication and authorization**  
+- Users can **add, edit, and delete property listings**  
+- Implemented **CRUD operations**, user reviews, and protected routes  
+- Backend APIs handle data validation, access control, and database operations  
 
 ---
 
-## 🌍 Open Source Journey
-
-- Beginner open-source contributor  
-- Currently working on real-world repositories  
-- Learning to read large codebases and collaborate with maintainers  
-
-> “Consistency over complexity.”
+### 🔹 Zerodha Clone (Full-Stack MERN + Chart.js)
+- Full-stack trading dashboard inspired by Zerodha  
+- Implemented **user authentication and secure access flow**  
+- Stock-related data is **stored and fetched from the database** via backend APIs  
+- Integrated **Chart.js** for visualizing stock trends and market data  
+- Backend handles API routing, data processing, and structured responses  
+- Focused on dashboard-style UI, data visualization, and real-world data flow  
 
 ---
 
-## 🎯 Current Focus (2025–2026)
+## 🌍 Open Source & GSoC Focus
 
-- Open-source contributions  
-- Backend-heavy MERN projects  
-- Security-aware development  
-- GSoC 2026 preparation  
+- Actively preparing for **Google Summer of Code 2026**
+- Interested in **backend-heavy open-source projects**
+- Learning to read large codebases, fix issues, and collaborate with maintainers  
+- Target areas: backend systems, developer tools, education platforms, and security-aware software  
+
+---
+
+## 🎯 Current Focus
+
+- Open-source contributions (beginner → intermediate)
+- Backend development using Node.js & Express
+- Writing clean, readable, and maintainable code
+- Preparing for **GSoC 2026**
 
 ---
 
@@ -94,4 +107,4 @@ Currently, I am actively improving my backend skills and preparing for **open-so
 - GitHub: https://github.com/kumar-veerendra  
 - LinkedIn: https://www.linkedin.com/in/kumar-veerendra/  
 
-⭐ If you like my work, feel free to connect or collaborate!
+⭐ If you find my work interesting, feel free to connect or collaborate!
