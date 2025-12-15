@@ -92,6 +92,6 @@ Currently, I am actively improving my backend skills and preparing for **open-so
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/kumar-veerendra  
-- LinkedIn: *(add when ready)*  
+- LinkedIn: https://www.linkedin.com/in/kumar-veerendra/  
 
 ⭐ If you like my work, feel free to connect or collaborate!
