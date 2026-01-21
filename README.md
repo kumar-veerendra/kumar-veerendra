@@ -2,7 +2,6 @@
 
 🎓 **B.Tech CSE (Cyber Security)**  
 💻 **Backend-focused Full-Stack Developer (MERN)**  
-🌱 **Aspiring Google Summer of Code (GSoC) 2026 Contributor**
 
 I am a Computer Science student with hands-on experience in building **real-world, full-stack web applications**.  
 My interests lie in **backend systems, open-source development, data-driven dashboards, and security-aware software design**.
@@ -98,7 +97,6 @@ Currently, I am actively preparing for **open-source contributions and GSoC 2026
 - Open-source contributions (beginner → intermediate)
 - Backend development using Node.js & Express
 - Writing clean, readable, and maintainable code
-- Preparing for **GSoC 2026**
 
 ---
 
