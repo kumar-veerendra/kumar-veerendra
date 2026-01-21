@@ -6,7 +6,6 @@
 I am a Computer Science student with hands-on experience in building **real-world, full-stack web applications**.  
 My interests lie in **backend systems, open-source development, data-driven dashboards, and security-aware software design**.
 
-Currently, I am actively preparing for **open-source contributions and GSoC 2026**.
 
 ---
 
