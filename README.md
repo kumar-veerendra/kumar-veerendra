@@ -2,7 +2,7 @@
 
 **B.Tech CSE (Cyber Security) | Backend-Focused Full-Stack Developer | MERN Stack**
 
-I’m a Computer Science student passionate about building clean, scalable, and practical software solutions. My experience spans **full-stack web development, backend API design, dashboard-style applications, and security-aware development**.
+I’m a Computer Science student passionate about designing and building clean, scalable, and practical software solutions. My experience spans **full-stack web development, backend API design, dashboard-style applications, and security-conscious development**.
 
 I enjoy turning ideas into reliable products with a strong focus on **maintainability, performance, and user experience**. I’m especially interested in projects that solve real problems and create meaningful impact.
 
@@ -13,7 +13,7 @@ I enjoy turning ideas into reliable products with a strong focus on **maintainab
 - Backend-focused full-stack developer with hands-on MERN stack experience
 - Strong interest in scalable architecture, secure authentication, and REST API design
 - Comfortable working on data-driven applications and interactive dashboards
-- Actively learning from open-source codebases and improving software engineering practices
+- Actively improving software engineering skills through open-source learning
 - Preparing for backend-heavy open-source contributions and Google Summer of Code opportunities
 
 ---
@@ -65,7 +65,7 @@ A web-based platform designed to improve communication between students, teacher
 
 - Developed as part of **Smart India Hackathon (SIH) 2025**
 - Qualified at the **college level**, ranking among the **top 50 teams out of 275+ teams**
-- Built with a focus on scalable structure, modular design, and maintainability
+- Built with a focus on scalable architecture, modular design, and maintainability
 - Planned and implemented features for **role-based access, secure APIs, and structured data management**
 - Reflects my interest in building **impact-driven, community-oriented software**
 
