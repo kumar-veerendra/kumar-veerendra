@@ -1,8 +1,10 @@
 # Hi, I'm Veerendra Kumar 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=kumar-veerendra&label=Profile%20views&color=0e75b6&style=flat)
+
 **B.Tech CSE (Cyber Security) | Backend-Focused Full-Stack Developer | MERN Stack**
 
-I’m a Computer Science student passionate about designing and building clean, scalable, and practical software solutions. My experience spans **full-stack web development, backend API design, dashboard-style applications, and security-conscious development**.
+I’m a Computer Science student passionate about designing and building clean, scalable, and practical software solutions. My experience spans **full-stack web development, backend API design, dashboard development, and secure authentication systems**.
 
 I enjoy turning ideas into reliable products with a strong focus on **maintainability, performance, and user experience**. I’m especially interested in projects that solve real problems and create meaningful impact.
 
