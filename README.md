@@ -71,7 +71,7 @@ A web-based platform designed to improve communication between students, teacher
 - Planned and implemented features for **role-based access, secure APIs, and structured data management**
 - Reflects my interest in building **impact-driven, community-oriented software**
 
-### Airbnb Clone — Full-Stack MERN Application
+### ApnaStay — Full-Stack MERN Application
 A feature-rich listing platform inspired by Airbnb.
 
 - Implemented **user authentication and authorization**
